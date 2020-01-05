@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ScoreboardService/.vs/ScoreboardService
+/ScoreboardService/packages/MSTest.TestAdapter.1.3.2/build/_common
+/ScoreboardService/packages
+/ScoreboardService/ScoreboardService/bin/Debug/netstandard2.0
+/ScoreboardService/ScoreboardService/obj/Debug/netstandard2.0
+/ScoreboardService/ScoreboardService/obj/project.assets.json
+/ScoreboardService/ScoreboardService/obj/ScoreboardService.csproj.nuget.cache
+/ScoreboardService/ScoreboardService/obj/ScoreboardService.csproj.nuget.dgspec.json
+/ScoreboardService/ScoreboardService/obj/ScoreboardService.csproj.nuget.g.props
+/ScoreboardService/ScoreboardService/obj/ScoreboardService.csproj.nuget.g.targets
+/ScoreboardService/ScoreboardTests/bin/Debug
+/ScoreboardService/ScoreboardTests/obj/Debug
